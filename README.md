@@ -1,4 +1,4 @@
-New standalon-automatic-pnp-feeder
+New standalon-automatic-pnp-feeder totally open source
 
 Design of a fully autonomous pick and place feeder,
 useful for adding Chinese-made benchtop pick and place power supplies (e.g. tvm802) and for DIY projects such as OpenPnP and more.
